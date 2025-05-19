@@ -35,14 +35,6 @@
 
 ---
 
-### 📊 **Estatísticas do GitHub**
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanVitorCD&show_icons=true&theme=dark&include_all_commits=true&border_color=20C20E"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanVitorCD&layout=compact&theme=dark&border_color=20C20E"/>
-</p>
-
----
-
 ### 🌐 **Conecte-se Comigo**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/luan-vitor-casali-dallabrida/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail)](mailto:luanvitorcd@gmail.com)
