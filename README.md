@@ -3,7 +3,7 @@
 </p>
 
 ### 👨💻 **Sobre Mim**
-- 🎓 5º semestre de Ciência da Computação na Unijuí
+- 🎓 6º semestre de Ciência da Computação na Unijuí
 - 💡 Apaixonado por tecnologia desde a infância
 - 🛠️ Foco em infraestrutura de TI e otimização de sistemas
 - 🌍 Inglês avançado | Mentalidade ágil e inovadora
